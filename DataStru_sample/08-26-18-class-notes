@@ -1,0 +1,49 @@
+08-26-18 class notes
+
+Data Structure
+
+                           ArrayList      vs.    LinkedList
+A) Insertion.         O(n)                      O(1)
+B) Deletion.          O(n)                      O(1)
+
+
+Stack:   Last in First Out—LIFO
+             First in Last out—-FILO
+
+Queue: First In First Out—FIFO
+             Last in Last Out—LILO
+
+Map
+HashMap
+HashTable
+
+Tree
+Binary Search Tree
+
+Graph
+
+Algorithm:
+
+Next Week:
+
+Sorting:
+
+Oracle or MySql
+ And
+MongoDB
+
+Tutorial:
+
+Database setup:
+https://www.youtube.com/watch?v=WQcFUWpdLmA&t=6938s
+
+Sql:
+https://www.w3schools.com/sql/
+
+MongoDB:
+https://www.mongodb.com/
+
+http://mongodb.github.io/mongo-java-driver/3.8/driver/getting-started/quick-start/
+
+
+
