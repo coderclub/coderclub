@@ -18,6 +18,7 @@ public class UseStack {
         while(!stack.empty()){
             System.out.println(stack.pop());
         }
+        System.out.println("i am here");
 
     }
 }
