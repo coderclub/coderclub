@@ -3,7 +3,7 @@ public static void main(string[]agrs){
   System.out.println("Hello Java!");
   System.out.println("MonDay, Nasir 2:05ccls" +
           "lkdfn");
-  System.out.println("MonDay, Nasir 2:05");
+  System.out.println("MonDay, Nasir 3:05");
   Hello.Brush();
 
   }
