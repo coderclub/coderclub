@@ -19,7 +19,7 @@ public class UseHashMapWithList {
         cityOfBD.add("Dhaka");
         cityOfBD.add("Comilla");
         cityOfBD.add("Barisal");
-        cityOfBD.add("Mymensing");
+        cityOfBD.add("Noyakhali");
         cityOfBD.add("Sylhet");
 
         Map<String, List<String>> listOfCountryNCity = new LinkedHashMap<String, List<String>>();
