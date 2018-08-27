@@ -10,6 +10,7 @@ public class UseQueue {
         queue.add("NY");
         queue.add("FL");
         queue.add("CA");
+        queue.add("NC");
         //Using Iterator traverse through the LinkedList
         Iterator it = queue.iterator();
         while(it.hasNext()) {
