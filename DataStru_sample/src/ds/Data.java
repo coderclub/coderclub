@@ -8,5 +8,6 @@ public class Data {
     }
     
     public static void MonDay(){
-        System.out.println("Came at 11:30 am);
+        System.out.println("init at 1:50 pm);
 }
+
