@@ -14,8 +14,8 @@ public class UseLinkedList {
         /*
         // add an element in the 3 rd position 
 	        list.add(2, "AA");
+              // add an other list to the first one 
 	        List<String> ll =new LinkedList<String>();
-	        // add an other list to the first one 
 	        ll.add("BB");
 	        ll.add("CC");
 	        list.addAll(ll);
