@@ -12,6 +12,14 @@ public class UseLinkedList {
         list.add("AZ");
         list.add("CA");
         /*
+        // add an element in the 3 rd position 
+	        list.add(2, "AA");
+	        List<String> ll =new LinkedList<String>();
+	        // add an other list to the first one 
+	        ll.add("BB");
+	        ll.add("CC");
+	        list.addAll(ll);
+
         Iterator it = list.iterator();
         while(it.hasNext()) {
             System.out.println(it.next());
